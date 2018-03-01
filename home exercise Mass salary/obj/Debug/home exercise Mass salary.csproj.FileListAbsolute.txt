@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\bin\Debug\home exercise Mass salary.exe.config
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\bin\Debug\home exercise Mass salary.exe
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\bin\Debug\home exercise Mass salary.pdb
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\obj\Debug\home exercise Mass salary.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\obj\Debug\home exercise Mass salary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\obj\Debug\home exercise Mass salary.exe
+C:\Users\User\Desktop\C#  myCreation\home exercise Mass salary\home exercise Mass salary\obj\Debug\home exercise Mass salary.pdb
